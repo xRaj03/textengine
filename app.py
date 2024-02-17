@@ -13,7 +13,7 @@ def bart_summarize(input_text):
     return summary
 
 # Streamlit App
-st.title("Text Summarization with mc Streamlit")
+st.title("Semantic Condensation Engine")
 
 input_text = st.text_area("Input Text:", "Enter your text here...")
 
