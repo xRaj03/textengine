@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: TextSummarization
+Version: 0.0.0
+Summary: End to End Machine Learning project to summarize text using NLP
+Home-page: https://github.com/UdBe/Text-Summarization-NLP
+Author: UdBe
+Project-URL: Bug Tracker, https://github.com/UdBe/Text-Summarization-NLP/issues
+License-File: LICENSE
